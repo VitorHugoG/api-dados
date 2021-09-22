@@ -2,7 +2,7 @@
      "dados" : [
     {
         "title": "Macbook",
-        "imgUrl": "../images/imagem1.jpg"
+        "imgUrl": "https://github.com/VitorHugoG/api-dados/blob/main/images/imagem1.jpg"
     },
     {
         "title": "deadpool, o Heroi subestimando ",
